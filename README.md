@@ -31,10 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![additem](images/additem.jpg)
 
 ### Added Item
-![additem](images/addedItem.jpg)
+![addeditems](images/addedItem.jpg)
 
 ### Delete Items
-![additem](images/deleteItems.jpg)
+![deleteitems](images/deleteItems.jpg)
 
 ### Multiple Items can be added to list
-![additem](images/multipleitems.jpg)
+![multipleitems](images/multipleitems.jpg)
